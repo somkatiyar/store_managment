@@ -1,0 +1,17 @@
+1. starting file index.html ( open in browser)
+
+2.product.js-------(Products detail show which are declared in var.js file)
+3.orderlist.js-------(Show orders which are declared in var.js)
+4.order.js-----------(show form as well as in vedio.In which add order and remover order are work)
+
+
+bugs-----
+
+1.In order.js----
+
+Add to order and remove order are work but place order not work and.
+
+2.In orderList.js
+
+given orders vaiable show only two detail of item selected. so in orderlist page item table 
+shown only two details of items.

@@ -1,0 +1,55 @@
+body{
+    font-family: sans-serif;
+}
+
+.function_btn_div{
+    margin: 10px;
+}
+button{
+    color: white;
+background-color: black;
+cursor: pointer;
+border-radius: 3px;
+}
+
+button:hover{
+    background-color: red;
+}
+
+.empHead {
+    background-color: #b8a8e0 !important;
+    color: white !important
+}
+
+.empInside:nth-child(even) {background: pink}
+.empInside:nth-child(odd) {background:  #c4e8c4}
+.empInsideOrder{background: #c4e8c4}
+#productListTable{
+    margin: 10px;
+    width: 400px;
+    height: 300px;
+}
+
+#product{
+    display: none;
+}
+
+#order{
+    display: none;
+}
+#orderList{
+    display: none;
+    display: block;
+    margin-left: 50px
+}
+.innerHeaderOrder{
+   
+    background-color: #9292c3; 
+    color: white;
+    
+}
+
+.table td, .table th {
+    padding: 0 !important;
+    vertical-align: top;
+    border-top: 1px solid #dee2e6;}
